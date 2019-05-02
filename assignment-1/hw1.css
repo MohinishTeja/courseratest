@@ -1,0 +1,94 @@
+body{
+	background: #808080;
+	margin: 2%;
+	padding: 2%;
+	
+}
+header{
+	text-align: center;
+	font-size: 150%;
+	background: #000fff;
+	font-style: italic;
+	text-transform: uppercase;
+	padding: 2%;
+	background-image: url("../images/goldring.jpg");
+	background-repeat: no-repeat;
+}
+
+nav a{
+	width: 22%;
+	display: inline-block;
+	background: #ffffff;
+	font-family: Arial;
+}
+
+nav{
+	text-align: center;
+}
+
+a{
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 12px;
+	display: inline-block;
+	width: 50px;
+	margin: 2%;
+	border-radius: 2%;
+	padding: 1%;
+}
+
+.active{
+	background: #ffff00;
+}
+
+.left img{
+	width: 75px;
+	margin-right: 10%;
+	margin-left: 10%;
+	margin-top: 15%;
+	margin-bottom: 15%;
+	border: solid;
+	border-color: #000000;
+	border-width: 3px;
+	padding: 2%;
+
+
+}
+.left {
+		background: #608000; 
+		width: 50%;
+		float: left;
+		padding: 2% 0; 
+		
+	}
+p{
+	color: #Black;
+	background: #FFF000;
+	font-family: Arial;
+	font-size: 110%;
+	margin: auto 0;
+}
+
+.right{
+	width: 30%;
+	display: inline-block;
+	padding-left: 1%;
+}
+
+
+
+h2{
+	color: #Black;
+	background: #FF0000;
+	font-family: courier;
+	font-size: 150%;
+}
+
+footer{
+	color: #ed600a;
+	font-size: 150%;
+	font-style: Arial;
+	text-align: center;
+	
+}
+
